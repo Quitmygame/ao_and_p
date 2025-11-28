@@ -1,3 +1,4 @@
+//является ли заданное целое число нечетным
 #include <iostream>
 using namespace std;
 
@@ -9,4 +10,5 @@ int main()
     
     cout << "Число нечётное: " << (n % 2) << endl;
     return 0;
+
 }
