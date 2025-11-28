@@ -1,3 +1,4 @@
+//площадь прямоугольного треугольника по двум катетам a,b
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -13,4 +14,5 @@ int main()
     s = (a * b) / 2.0;
     cout << "Площадь треугольника: " << s << endl;
     return 0;
+
 }
