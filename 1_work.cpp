@@ -1,3 +1,4 @@
+//вычислить значение выражений 10 пример
 #include <iostream>
 #include <cmath>
 #include <iomanip>
@@ -13,4 +14,5 @@ int main()
 
     cout << "y = " << y << endl;
     return 0;
+
 }
